@@ -1,4 +1,4 @@
-[![Code for Liberation](https://img.shields.io/badge/🇵🇸%20Code_for_Liberation-falastech.org-%23E60023.svg)](https://falastech.pages.dev)
+[![Code for Liberation](https://img.shields.io/badge/🇵🇸%20Code_for_Liberation-falastech.org-%23E60023.svg)](https://falastech.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](https://github.com/FalasTech/falastech-tools/blob/main/LICENSE)
 
 # 🧰 FalasTech Tools
@@ -27,4 +27,4 @@ This project is licensed under the:
 ---
 
 ✊ **Empower. Build. Resist.**  
-A project by [🌐 FalasTech](https://falastech.pages.dev)
+A project by [🌐 FalasTech](https://falastech.org)
