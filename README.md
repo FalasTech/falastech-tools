@@ -9,9 +9,9 @@ A collection of **open-source tools** developed by **FalasTech** to support digi
 
 ## 🧪 Available Tools
 
-| 🧰 **Tool Name** | 🧾 **Description**         | 🔗 **Link**                 |
-|------------------|----------------------------|-----------------------------|
-| 🖼️ Palestine Profile Pic Maker | Add a Palestinian flag overlay to your profile pic | [🔗 Live](https://ppm.falastech.org) / [📦 Repo](https://github.com/FalasTech/falastech-ppm) |
+| 🧰 **Tool Name** | 🧾 **Description**         | 🔗 **Link**               | 👤 **Developed By** |
+|------------------|----------------------------|-----------------------------|-------------------|
+| 🖼️ Palestine Profile Pic Maker | Add a Palestinian flag overlay to your profile pic | [🔗 Live](https://ppm.falastech.org) / [📦 Repo](https://github.com/FalasTech/falastech-ppm) | [@heyitzamjad](https://github.com/heyitzamjad) |
 
 💬 We welcome community-built tools!  
 👉 See [CONTRIBUTING.md](CONTRIBUTING.md) to add yours.
