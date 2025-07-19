@@ -11,8 +11,7 @@ A collection of **open-source tools** developed by **FalasTech** to support digi
 
 | 🧰 **Tool Name** | 🧾 **Description**         | 🔗 **Link**                 |
 |------------------|----------------------------|-----------------------------|
-| 🛠️ Tool 1         | Coming Soon           | [🔗 Live](#) / [📦 Repo](#) |
-| ⚙️ Tool 2         | Coming Soon           | [🔗 Live](#) / [📦 Repo](#) |
+| 🖼️ Palestine Profile Pic Maker | Add a Palestinian flag overlay to your profile pic | [🔗 Live](https://ppm.falastech.org) / [📦 Repo](https://github.com/FalasTech/falastech-ppm) |
 
 💬 We welcome community-built tools!  
 👉 See [CONTRIBUTING.md](CONTRIBUTING.md) to add yours.
